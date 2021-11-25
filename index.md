@@ -5,7 +5,7 @@ The information below can be used as a template for your own home page.
 
 Hi! My name is Gorse Wilkins, aka G. 
 
-I am a first year undergraduate student at the University of Essex. I am currently studying towards a BA in Sociology. 
+I am a first year undergraduate student at the University of Essex. I have previously completed a one year Btec course studying social studies and psychology  and I am now currently studying towards a BA in Sociology. I have 
 
 Besides working on the Enhancing Audio Description project as a research assistant, my doctoral research developed brain-computer music interfaces for meditation, in which I link neurofeedback to auditory entrainment in generative soundscapes inspired by shamanic journeying. I have also been teaching music technology-related subjects (e.g. sonic art, sensor technology and music for the moving image) as an associate lecturer at the Anglia Ruskin University, Cambridge and the University of Bedfordshire and currently teach a module on sensemaking and digital identities at the School of Philosophy and Arts History at the University of Essex. As a freelancer and artist, I have been producing sound design and music, websites and visual art, including photography and paintings. 
 
@@ -30,7 +30,8 @@ Besides working on the Enhancing Audio Description project as a research assista
 <br>
 
 ## now
-- I just wrote a template for my students' [di-reflection](di-reflection.md)
+- I have started my website'
+- 
 - working as a post-grad research assistant on [EAD](http://enhancingaudiodescription.com/)
 - running the [CSS220 module] (https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world) at the University of Essex
 - making my final amendments to the my doctoral thesis on [BCMI](https://bcmi.khofstadter.com/)
@@ -44,13 +45,14 @@ Besides working on the Enhancing Audio Description project as a research assista
 | date | degree | institute |
 --- | --- | ---
 |ongoing|**BA** in Sociology |University Of Essex|
-| 2019 | **B-TEC** in social care | Limerick College of Further Education, Ireland |
+| 2019 | **B-TEC** in social studies and psychology | Limerick College of Further Education, Ireland |
 | 2018 | **Leaving Certificate** | Abbey Community College, Ireland |
 
 
 <br>
 
 ## work experience
+## 
 ### research assistant positions
 #### StoryLab Research Institute
 
