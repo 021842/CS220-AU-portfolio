@@ -5,7 +5,9 @@ The information below can be used as a template for your own home page.
 
 Hi! My name is Gorse Wilkins, aka G. 
 
-I am a creative technologist working as a researcher, lecturer, freelancer and artist. Besides working on the Enhancing Audio Description project as a research assistant, my doctoral research developed brain-computer music interfaces for meditation, in which I link neurofeedback to auditory entrainment in generative soundscapes inspired by shamanic journeying. I have also been teaching music technology-related subjects (e.g. sonic art, sensor technology and music for the moving image) as an associate lecturer at the Anglia Ruskin University, Cambridge and the University of Bedfordshire and currently teach a module on sensemaking and digital identities at the School of Philosophy and Arts History at the University of Essex. As a freelancer and artist, I have been producing sound design and music, websites and visual art, including photography and paintings. 
+I am a first year undergraduate student at the University of Essex. I am currently studying towards a BA in Sociology. 
+
+Besides working on the Enhancing Audio Description project as a research assistant, my doctoral research developed brain-computer music interfaces for meditation, in which I link neurofeedback to auditory entrainment in generative soundscapes inspired by shamanic journeying. I have also been teaching music technology-related subjects (e.g. sonic art, sensor technology and music for the moving image) as an associate lecturer at the Anglia Ruskin University, Cambridge and the University of Bedfordshire and currently teach a module on sensemaking and digital identities at the School of Philosophy and Arts History at the University of Essex. As a freelancer and artist, I have been producing sound design and music, websites and visual art, including photography and paintings. 
 
 <br>
 
@@ -17,8 +19,7 @@ I am a creative technologist working as a researcher, lecturer, freelancer and a
 <br>
 
 ## contact
-- k[dot]hofstadter[at]essex[dot]co[dot]uk
-- kris[at]khofstadter[dot]com
+- GW@gmail[dotcom]
 
 <br>
 
@@ -42,10 +43,10 @@ I am a creative technologist working as a researcher, lecturer, freelancer and a
 
 | date | degree | institute |
 --- | --- | ---
-|ongoing|**Ph.D.** in Music |ARU, Cambridge School of Creative Industries|
-| ongoing | **PG Certificate** in Learning and Teaching <br> in Higher Education | ARU, School of Education and Social Care
-| 2013 | **MA** in Creative Music Technology for Media | ARU, Music and Performing Arts Department
-| 2009 | **BA** (Hons) - Creative Music Technology (1st) | ARU, Music and Performing Arts Department  |
+|ongoing|**BA** in Sociology |University Of Essex|
+| 2019 | **B-TEC** in social care | Limerick College of Further Education, Ireland |
+| 2018 | **Leaving Certificate** | Abbey Community College, Ireland |
+
 
 <br>
 
