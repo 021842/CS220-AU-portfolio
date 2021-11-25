@@ -1,6 +1,5 @@
-The information below can be used as a template for your own home page. 
 
-## Gorse Wilkins
+## student number - 21842
 **Undergraduate Sociology Student**  
 
 Hi! My name is Gorse Wilkins, aka G. 
