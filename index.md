@@ -4,7 +4,7 @@
 
 Hi! My name is Gorse Wilkins, aka G. 
 
-I am a first year undergraduate student at the University of Essex. I have previously completed a one year Btec course studying social studies and psychology  and I am now currently studying towards a BA in Sociology. I have 
+I am a first year undergraduate student at the University of Essex. I grew up in Ireland and moved here to study. I have previously completed a one year Btec course studying social studies and psychology and I am now currently studying towards a BA in Sociology. I have always had an interest in sociology and having a career that was based around helping others. I was fascinated at how polotical policies shaped the direction of society and, why people act in the way they do, not only how we shape our society but how it shapes us, its these questions that led me to want to study sociology at a degree level. Outside of University I 
 
 Besides working on the Enhancing Audio Description project as a research assistant, my doctoral research developed brain-computer music interfaces for meditation, in which I link neurofeedback to auditory entrainment in generative soundscapes inspired by shamanic journeying. I have also been teaching music technology-related subjects (e.g. sonic art, sensor technology and music for the moving image) as an associate lecturer at the Anglia Ruskin University, Cambridge and the University of Bedfordshire and currently teach a module on sensemaking and digital identities at the School of Philosophy and Arts History at the University of Essex. As a freelancer and artist, I have been producing sound design and music, websites and visual art, including photography and paintings. 
 
@@ -23,8 +23,8 @@ Besides working on the Enhancing Audio Description project as a research assista
 <br>
 
 ## acedemic pages/associations/clubs
-- [Essex Staff Page](https://www.essex.ac.uk/people/HOFST49102/krisztian-hofstadter)
-- [StoryLab Team Page](https://storylabresearch.com/team/)
+- [Essex email](https://www.essex.ac.uk/people/HOFST49102/krisztian-hofstadter)
+
 
 <br>
 
@@ -51,7 +51,8 @@ Besides working on the Enhancing Audio Description project as a research assista
 <br>
 
 ## work experience
-## 
+## waitress
+I worked as a waitress for an upmarket sushi restaurant from 2020-2021, my role included welcoming and making customers feel comfortable in the environment, taking orders frim customers. Serving and explaining the food, taking payments and being able to balance many things at once, both mentally and physically. I enjoyed my time working here because it helped elevate many of my skills such as communication and teamwork. Patience and hardwork and 
 ### research assistant positions
 #### StoryLab Research Institute
 
