@@ -38,24 +38,19 @@ I am a first year undergraduate student at the University of Essex. I grew up in
 
 ## work experience
 ## waitress 2020-2021
-I worked as a waitress for an upmarket sushi restaurant from 2020-2021, my role included welcoming and making customers feel comfortable in the environment, taking orders frim customers. Serving and explaining the food, taking payments and being able to balance many things at once, both mentally and physically. I enjoyed my time working here because it helped elevate many of my skills such as communication and teamwork. Patience and hardwork and 
+I worked as a waitress for an upmarket sushi restaurant from 2020-2021, my role included welcoming and making customers feel comfortable in the environment, taking orders frim customers. Serving and explaining the food, taking payments and being able to balance many things at once. I loved being a waitress and would go back into that line of work temporaruily whilst studying, if the opportunity arose.
 
 ### elderly care 2019-2020
-
-
-
-#### assistant  
-
+I worked as a care assistant in a dementia nursing home in 2019, my role here included getting the residents dressed and ready for the day, helping with mealtimes and keeping them enteratined and safe. I really enjoyed this job as it helped with my communication and teamwork skills and helped me gain an insight into this line of work. 
 
 
 <br>
-
-Here is an example on how to embed an image from an external website:
+###
+travelling 
 
 ![res](https://github.com/021842/CS220-AU-portfolio/blob/main/IMG_20190711_121742519%20(1).jpg?raw=true)
 ![res](https://github.com/021842/CS220-AU-portfolio/blob/main/IMG_20190722_110559024_HDR.jpg?raw=true)
 ![res](https://github.com/021842/CS220-AU-portfolio/blob/main/IMG_20190722_110936633_HDR.jpg?raw=true)
-![res](https://github.com/021842/CS220-AU-portfolio/blob/main/IMG_20190724_134227288_HDR.jpg?raw=true)
 ![res](https://github.com/021842/CS220-AU-portfolio/blob/main/IMG_20190724_161140798_HDR.jpg?raw=true)
 ![res](https://github.com/021842/CS220-AU-portfolio/blob/main/IMG_20190727_210106787_HDR.jpg?raw=true)
 ![res](https://github.com/021842/CS220-AU-portfolio/blob/main/IMG_20190728_195348635_HDR.jpg?raw=true)
