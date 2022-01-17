@@ -32,17 +32,19 @@ I have added my student number and my portfolio's URL in the `final-check.md` fi
 <br>
 
 ## Log
-- 2021-10-19 
+- 2022-01-17
 - 
-- 2021-10-16 
+- 2021-12-12 final edit of portfolio.
 - 
-- 2021-10-11 
+- 2021-11-25 finalising my essay.
 - 
-- 2021-10-07 
+- 2021-11-20 edited overview to be my own.
 - 
-- 2021-10-12 cotinued with essay.
+- 2021-11-18 first attempt at website, added introduction, contact links and work experience, and started thinking about interests and hobbies. 
 - 
-- 2021-10-05 started first draft of website.
+- 2021-11-12 cotinued with essay.
+- 
+- 2021-11-05 started first draft of website.
 - 
 - 2021-10-04 Chose to use github for my wesbite, started putting ideas together.
 - 
@@ -50,7 +52,7 @@ I have added my student number and my portfolio's URL in the `final-check.md` fi
 - 
 - 2021-10-22 make github account, forked repositoriy from Krisztian. 
 - 
-- 2021-10-14 attended class,  learnt about VR maps and digital identity.
+- 2021-10-14 attended class, learnt about VR maps and digital identity.
 
 <br>
 
