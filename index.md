@@ -7,19 +7,10 @@ Hi! My names Gorse, but everyone calls me G.
 I am a first year undergraduate student at the University of Essex. I grew up in the West of Ireland, In  a very rural place called Lough Key, beautiful but I needed a change so i moved country both to study and to experience life in a City. I have previously completed a one year Btec course studying social studies and psychology and I am now currently studying towards a BA in Sociology. I have always had an interest in sociology and having a career that was based around helping others. I was fascinated at how political policies shaped the direction of society and, why people act in the way they do, not only how we shape our society but how it shapes us, its these questions that led me to want to study sociology at a degree level. 
 
 
-<br>
-
-## social media links
-- [Instagram](https://www.instagram.com/gorsew605/)
-- [twitter](https://twitter.com/natashax605)
-- [spotify](https://www.spotify.com/uk/gorsewilkins/)
 
 <br>
 
-
-<br>
-
-## education
+## EDUCATION
 
 | date | degree | institute |
 --- | --- | ---
@@ -30,7 +21,8 @@ I am a first year undergraduate student at the University of Essex. I grew up in
 
 <br>
 
-## work experience
+## WORK EXPERIENCE 
+
 ## waitress 2020-2021
 I worked as a waitress for an upmarket sushi restaurant from 2020-2021, my role included welcoming and making customers feel comfortable in the environment, taking orders frim customers. Serving and explaining the food, taking payments and being able to balance many things at once. I loved being a waitress and would go back into that line of work temporaruily whilst studying, if the opportunity arose.
 
@@ -39,9 +31,10 @@ I worked as a care assistant in a dementia nursing home in 2019, my role here in
 
 
 <br>
-### HOBBIES 
 
-## Travelling
+## HOBBIES/INTERESTS 
+
+### Travelling 
 
 Pompeii-Italy 
 
@@ -65,3 +58,7 @@ Brandenburg Gate- Germany
 <br>
 
 
+## SOCIAL MEDIA LINKS 
+- [Instagram](https://www.instagram.com/gorsew605/)
+- [twitter](https://twitter.com/natashax605)
+- [spotify](https://www.spotify.com/uk/gorsewilkins/)
