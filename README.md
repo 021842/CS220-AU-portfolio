@@ -1,6 +1,6 @@
 # CS220 AU portfolio
 ## Overview
-This Github overview is for my CS220 portfolio which is very similar to a CV. It gives some information on my background, my interests, Univeristy life and some contact information.
+This Github overview is for my CS220 portfolio. It gives some information on my background,Univeristy life, my hobbies and interests and social media links.
 
 It demonstrates the use of [Markdown language](https://guides.github.com/features/mastering-markdown/) for
 - project management
