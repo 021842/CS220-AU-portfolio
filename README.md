@@ -32,23 +32,32 @@ I have added my student number and my portfolio's URL in the `final-check.md` fi
 <br>
 
 ## Log
-- 2021-10-19 minor grammar and logic changes. 
-- 2021-10-16 testing fork from kris-dummy account. Testing notifications in forked repos. 
-- 2021-10-11 one peer assessment instead of two needed.
-- 2021-10-07 to have an originality report from FASER, students need to submit the DI reflection as PDF. They can still add this reflection to their GitHub repositories as an additional website if they would like to. The submit.md file is changed to final-check.md. All files changed to reflect these changes. 
-- 2021-10-06 README.md refined with clearer overview. Change from submitting in PDF to submitting in .md (submit.md). 
-- 2021-10-05 submit.md refined (raw rubric sheet in excel file and converted with https://www.convertcsv.com/csv-to-markdown.htm. All text checked with free Grammarly and ProWritingAid
-- 2021-10-03 di-reflection simplified. submit.md simplified. index.md simplified
-- 2021-10-01 assessment.md renamed to submit.md. reflection.md renamed to di-reflection.md. Links added to CS220 repo and files were fine-tuned
+- 2021-10-19 
 - 
-- 2021-10-14 forked CS220 file readme.md refined
-- 2021-10-07 attended class, made github account. 
+- 2021-10-16 
+- 
+- 2021-10-11 
+- 
+- 2021-10-07 
+- 
+- 2021-10-12 cotinued with essay.
+- 
+- 2021-10-05 started first draft of website.
+- 
+- 2021-10-04 Chose to use github for my wesbite, started putting ideas together.
+- 
+- 2021-10-28 started thinking about essay and how to structure.
+- 
+- 2021-10-22 make github account, forked repositoriy from Krisztian. 
+- 
+- 2021-10-14 attended class,  learnt about VR maps and digital identity.
 
 <br>
 
 ## TODO
-- link good minimal examples
-
+- write final draft of essay.
+- send off to partner for peer assesment.
+- submit portfolio and essay. 
 <br>
 
 ## References
