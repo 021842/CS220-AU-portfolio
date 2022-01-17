@@ -53,7 +53,13 @@ I worked as a waitress for an upmarket sushi restaurant from 2020-2021, my role 
 Here is an example on how to embed an image from an external website:
 
 ![res](https://github.com/021842/CS220-AU-portfolio/blob/main/IMG_20190711_121742519%20(1).jpg?raw=true)
-
+![res](https://github.com/021842/CS220-AU-portfolio/blob/main/IMG_20190722_110559024_HDR.jpg?raw=true)
+![res](https://github.com/021842/CS220-AU-portfolio/blob/main/IMG_20190722_110936633_HDR.jpg?raw=true)
+![res](https://github.com/021842/CS220-AU-portfolio/blob/main/IMG_20190724_134227288_HDR.jpg?raw=true)
+![res](https://github.com/021842/CS220-AU-portfolio/blob/main/IMG_20190724_161140798_HDR.jpg?raw=true)
+![res](https://github.com/021842/CS220-AU-portfolio/blob/main/IMG_20190727_210106787_HDR.jpg?raw=true)
+![res](https://github.com/021842/CS220-AU-portfolio/blob/main/IMG_20190728_195348635_HDR.jpg?raw=true)
+![res](https://github.com/021842/CS220-AU-portfolio/blob/main/IMG_20190728_201517135_HDR.jpg?raw=true)
 <br>
 
 
