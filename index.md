@@ -44,15 +44,10 @@ I worked as a waitress for an upmarket sushi restaurant from 2020-2021, my role 
 
 
 
-#### assistant  
+#### TRAVELLING 
 
 
-
-<br>
-
-Here is an example on how to embed an image from an external website:
-
-![res](https://khofstadter.com/assets/img/2005-04-01-khofstadter-painting-fraction.jpg)
+![res](https://github.com/021842/CS220-AU-portfolio/blob/main/IMG_20190711_124412672_HDR.jpg?raw=true)
 
 <br>
 
