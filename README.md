@@ -40,8 +40,9 @@ I have added my student number and my portfolio's URL in the `final-check.md` fi
 - 2021-10-05 submit.md refined (raw rubric sheet in excel file and converted with https://www.convertcsv.com/csv-to-markdown.htm. All text checked with free Grammarly and ProWritingAid
 - 2021-10-03 di-reflection simplified. submit.md simplified. index.md simplified
 - 2021-10-01 assessment.md renamed to submit.md. reflection.md renamed to di-reflection.md. Links added to CS220 repo and files were fine-tuned
-- 2021-09-24 index.md, reflection.md and assessment.md added. readme.md refined
-- 2021-09-21 repo created. readme.md added and next steps in the todo heading defined
+- 
+- 2021-10-14 forked CS220 file readme.md refined
+- 2021-10-07 attended class, made github account. 
 
 <br>
 
