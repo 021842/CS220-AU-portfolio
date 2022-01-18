@@ -24,15 +24,15 @@ The portfolio you submit needs to contain the following:
 I have added my student number and my portfolio's URL in the `final-check.md` file, and completed the checklist in this file and along with the PDF version of my DI reflection, on FASER. 
 
 
-1. 021842-di-reflection.pdf
-2. 021842-final-check.md
+1. 2102172-di-reflection.pdf
+2. 2102172-final-check.md
 
 
 
 <br>
 
 ## Log
-- 2022-01-17
+- 2022-01-18 handed in both portfolio and essay
 - 
 - 2021-12-12 final edit of portfolio.
 - 
